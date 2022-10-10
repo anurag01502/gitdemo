@@ -1,7 +1,7 @@
 # gitdemo
 
 updated version
-i learning git and github
+i'm learning git and github
 
 # jaibalaya
 balaya babu ni evaru apaleru
@@ -9,5 +9,5 @@ balaya babu ni evaru apaleru
 # selmonbhoi
 best driver
 
-# johnnybhai
- allrounder
+
+
